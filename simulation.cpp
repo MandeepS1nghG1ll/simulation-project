@@ -2,9 +2,7 @@
 #include <vector>
 using namespace std;
 
-//The following code is a C++ program to simulate the Disk Operating System (DOS). It is used to manage and store data on a storage device, such as a hard drive. 
 
-//The following constants are used by the code:
 const int BLOCK_SIZE = 512;  //The size of each block in bytes
 const int NUM_BLOCKS = 1024; //The total number of blocks available in the disk
 
